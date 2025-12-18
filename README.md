@@ -75,11 +75,11 @@ Tips:
 ## Quick notes on `min_ds-env.yml`
 
 - Name: `min_ds-env` (the environment created will use this name by default).
-- Python: 3.11.5 (as pinned in the YAML). If you need a different Python, you can modify the file or create a separate environment.
+- Python: 3.10+ (as pinned in the YAML). If you need a different Python, you can modify the file or create a separate environment.
 - Channels: `conda-forge`, `defaults` — these are defined in the YAML and used automatically by conda/mamba.
 
 ## Authors
-
+- Phan Trung Nhut - FIT HCMUS
 - Le Minh Duc - FIT HCMUS
 - Dinh Xuan Khuong - FIT HCMUS
 

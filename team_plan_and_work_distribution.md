@@ -9,6 +9,7 @@ Use this fill-in template to document your team members, responsibilities, proce
 
 | Name | Id | Email | GitHub 
 | --- | --- | --- | --- |
+| Phan Trung Nhut | 23127240 | ptnhut23@clc.fitus.edu.vn | nhutphansayhi |   
 | Le Minh Duc | 23127351 | lmduc23@clc.fitus.edu.vn | zintomfromnowhere |   
 | Dinh Xuan Khuong | 23127398 | dxkhuong23@clc.fitus.edu.vn | DinhXuanKhuong |  
 
@@ -90,7 +91,7 @@ Buffer & Deadlines:
 ---
 
 ## 5) Sign-off
-
+- Agreed by: Phan Trung Nhut
 - Agreed by: Le Minh Duc
 - Agreed by: Dinh Xuan Khuong
 
