@@ -23,6 +23,7 @@ Use the table below for core responsibilities. Percentages are guidance — tota
 | --- | --- | --- | ---: | ---: | --- | --- |
 | Le Minh Duc |  |  |  |  |  | ☐ Not started ☐ In progress ☐ Done |
 | Dinh Xuan Khuong |  |  |  |  |  | ☐ Not started ☐ In progress ☐ Done |
+| Phan Trung Nhut |  |  |  |  |  | ☐ Not started ☐ In progress ☐ Done |
 
 | Task | Owner | Description | Acceptance Criteria | Dependency | Due |
 | --- | --- | --- | --- | --- | --- |
